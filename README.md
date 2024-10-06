@@ -10,4 +10,6 @@ We propose a mobile application to help particular farmers and agricultural comp
 - Compute water stress
 - Compute soil organic carbon
 
+You can see a prototype designed in Figma [here]([https://www.spaceappschallenge.org/nasa-space-apps-2024/challenges/leveraging-earth-observation-data-for-informed-agricultural-decision-making/](https://www.figma.com/proto/sflLwsnzDV5g5COzkNjtoV/Cropellite?node-id=28-2914&amp;node-type=canvas&amp;t=ucdLRQH4HnV2YKK8-1&amp;scaling=scale-down&amp;content-scaling=fixed&amp;page-id=0%3A1&amp;starting-point-node-id=15%3A96)).
+
 In this repository, you can find the Python implementation for the neural network that identifies areas with irrigation needs. 
